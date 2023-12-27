@@ -13,7 +13,7 @@ export const metadata: Metadata = {
   title: "Threads B-Tech",
   description: "A clone of the popular threads app",
   icons: {
-    icon: "/logo.svg",
+    icon: "/assets/logo.svg",
   },
 };
 
